@@ -1,0 +1,193 @@
+{
+  "tutorialSidebar": [
+    {
+      "type": "category",
+      "label": "Actor (Scene Graph Node)",
+      "items": [
+        "camera-actor",
+        "custom-actor",
+        "drawable-actor",
+        "layer"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "actors"
+      }
+    },
+    "adaptor-framework",
+    "addons",
+    "animation",
+    "asset-manager",
+    "atspi-interfaces",
+    "builder",
+    "common",
+    "drag-drop-detector",
+    {
+      "type": "category",
+      "label": "events",
+      "items": [
+        "gesture-detection",
+        "gesture-types",
+        "input-events"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "events"
+      }
+    },
+    "focus-manager",
+    {
+      "type": "category",
+      "label": "image-loader",
+      "items": [
+        "async-image-loader",
+        "sync-image-loader",
+        "texture-manager"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "image-loader"
+      }
+    },
+    {
+      "type": "category",
+      "label": "image-view",
+      "items": [
+        "animated-image-view",
+        "static-image-view",
+        "lottie-animation-view"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "image-view"
+      }
+    },
+    "images",
+    {
+      "type": "category",
+      "label": "layouts",
+      "items": [
+        "absolute-layout",
+        "flex-layout",
+        "grid-layout"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "layouts"
+      }
+    },
+    "math",
+    "object",
+    "property-bridge",
+    {
+      "type": "category",
+      "label": "render-effects",
+      "items": [
+        "background-blur-effect",
+        "gaussian-blur-effect",
+        "mask-effect"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "render-effects"
+      }
+    },
+    "render-tasks",
+    {
+      "type": "category",
+      "label": "rendering",
+      "items": [
+        "frame-buffer",
+        "geometry",
+        "renderer",
+        "shader"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "rendering"
+      }
+    },
+    "scripting",
+    {
+      "type": "category",
+      "label": "shader-effects",
+      "items": [
+        "alpha-discard-effect",
+        "dissolve-effect",
+        "distance-field-effect",
+        "image-region-effect",
+        "motion-blur-effect"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "shader-effects"
+      }
+    },
+    "signals",
+    "size-negotiation",
+    "text",
+    {
+      "type": "category",
+      "label": "text-abstraction",
+      "items": [
+        "bidirectional-support",
+        "bitmap-font",
+        "font-client",
+        "font-file-manager"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "text-abstraction"
+      }
+    },
+    {
+      "type": "category",
+      "label": "threading",
+      "items": [
+        "conditional-wait",
+        "future",
+        "mutex",
+        "thread-pool"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "threading"
+      }
+    },
+    "update",
+    "utility",
+    {
+      "type": "category",
+      "label": "View (Base UI Object)",
+      "items": [
+        "animated-image-view",
+        "image-view",
+        "input-field",
+        "label",
+        "layout",
+        "lottie-animation-view",
+        "scroll-view"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "view"
+      }
+    },
+    "visual-factory",
+    {
+      "type": "category",
+      "label": "visuals",
+      "items": [
+        "animated-image-visual",
+        "animated-vector-image-visual",
+        "border-visual",
+        "color-visual"
+      ],
+      "link": {
+        "type": "doc",
+        "id": "visuals"
+      }
+    },
+    "watch"
+  ]
+}
